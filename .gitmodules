@@ -1,6 +1,4 @@
-[submodule "ex"]
-	path = ex
-	url = https://github.com/shafali731/APCS1-hw.git
+
 [submodule "APCS2"]
 	path = APCS2
 	url = git@github.com:shafali731/APCS2.git
